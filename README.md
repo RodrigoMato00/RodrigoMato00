@@ -1,16 +1,20 @@
-### Hi there 👋
+<html>
+  <head>
+      <-- script llamndo a la libreria de a-frame -->
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  </head>
+  <body>
+      <-- div donde se va a renderizar el a-frame -->
+    <a-scene background="color:#222222">
 
-<!--
-**RodrigoMato00/RodrigoMato00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        <-- objeto que se va a renderizar-->
+        <a-box
+            color="red"
+            position="0 2 -5"
+            rotation="0 45 45"
+            scale="2 1 2">
+        </a-box>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </a-scene>
+  </body>
+</html>
