@@ -9,6 +9,7 @@
 ![soft skills](https://img.shields.io/badge/-teamwork-lightgrey) ![soft skills](https://img.shields.io/badge/-challenges-lightgrey) ![soft skills](https://img.shields.io/badge/-research-lightgrey) ![soft skills](https://img.shields.io/badge/-innovation-lightgrey)
 
 ```python
+Hi I am a software engineer and I specialize in AR/VR development.
 Plan, design and develop software projects. 
 Provide support when required to technical software and hardware problems.
 Propose ideas and analyze the requirements to carry them out.
