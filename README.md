@@ -3,4 +3,4 @@
 </p>
 
 <!-- linkedin --> 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-+24K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rodrigo-mato-pla/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rodrigo-mato-pla/)
