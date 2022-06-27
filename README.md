@@ -25,6 +25,6 @@ Responsible for progress, execute and maintain the software projects carried out
 </p>
 <!-- stats profile -->
 <div align="justify">
-<img width="49%" src=https://github-readme-stats.vercel.app/api?username=RodrigoMato00&show_icons=true&theme=dark&custom_title=Ronald%20's%20Github%20Profile>
+<img width="49%" src=https://github-readme-stats.vercel.app/api?username=RodrigoMato00&show_icons=true&theme=dark&custom_title=Rodrigo%20's%20Github%20Profile>
 <!-- Top languages -->
 <img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMato00&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
