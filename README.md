@@ -21,7 +21,7 @@ Responsible for progress, execute and maintain the software projects carried out
 
 <!-- Contribution graph -->
 <p justify-content="center">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=RodrigoMato00&theme=react-dark&custom_title=Contribution%20Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RodrigoMato00&theme=react-dark&custom_title=Contribution%20Graph" width="100%"/>
 </p>
 <!-- stats profile -->
 <div align="justify">
