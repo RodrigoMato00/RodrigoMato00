@@ -32,8 +32,12 @@ Responsible for progress, execute and maintain the software projects carried out
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMato00&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages">
 </div>
 
-
-
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rodrigomato00&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 
 
